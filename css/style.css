@@ -22,7 +22,7 @@ body {
 }
 
 .header {
-    background-image: url(../images/seccion.jpg);
+    background-image: url(../images/STAFF.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,8 +84,8 @@ body {
 }
 
     .header-txt h1, span, h3 {
-        font-size: 110px;
-        letter-spacing: 5px;
+        font-size: 116px;
+        letter-spacing: 6px;
         text-transform: uppercase;
         font-family: 'Bebas Neue', cursive;
         color: #ffcb00;
@@ -93,11 +93,11 @@ body {
     }
 
     .header-txt span {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .header-txt p {
-        color: #FFFFFF;
+        color: #fff;
         padding: 0 250px;
         margin: 25px 0;
     }
@@ -170,7 +170,7 @@ p {
 }
 
 .b1 {
-    color: #CF2D3A
+    color: #ffcb00
 }
 
 .services {
@@ -251,11 +251,11 @@ th {
 }
 
 td {
-    color: #CF2D3A;
+    color: #ffcb00;
 }
 
 .prices-2 {
-    background-image: url(../images/a2.jpg);
+    background-image: url(../images/estan.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -304,7 +304,7 @@ td {
     }
 
 .footer-bg {
-    background-image: url(../images/bg-2.png);
+    background-image: url(../images/estan.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -328,7 +328,7 @@ form {
     padding: 20px 15px;
     width: 250px;
     background-color: #0E0E0E;
-    border: 1px solid #CF2D3A;
+    border: 1px solid #ffcb00;
     outline: none;
     border-radius: 10px;
     color: #FFFFFF;
